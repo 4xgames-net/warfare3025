@@ -28,4 +28,5 @@ public:: true
 	- TODO #test currently, only one roll is required when new terrain is entered. from a logical perspective, a roll should be required for every hex. check if that gets too cumbersome.
 	- a pilot may opt to enter the hex carefully; if they do, the movement costs 2 ticks extra and is never fast. in return, the required success tier is one lower than detailed (that means a "poor" result may be required occasionally.)
 	- {{embed ((68aaf6fa-b647-4293-ac9e-0622ce8f5b0b))}}
-	-
+	- prev: [[Initiative]]
+	- next: [[Terrain]]

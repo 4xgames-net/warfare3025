@@ -13,4 +13,6 @@ public:: true
 -
 - ### Non-resisting targets
 	- TODO individual components which receive damage by called shots do not get a resistance roll. damage is applied to them directly once the armor is breached. This prevents Centerpiece units from too elevated levels of survivability and makes called shots a tactical option. See [[Centerpiece units]] for details.
-	-
+-
+- prev: [[Armor]]
+- next: [[Heat]]

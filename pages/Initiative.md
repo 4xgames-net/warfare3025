@@ -24,3 +24,6 @@ public:: true
 		  #+END_EXAMPLE
 - ### Preflight
 	- If no scenario is given to determine who starts, we recommend that both sides roll tactics or maneuvering skill and place their result tier (1 for poor, 4 for excellent) worth of ticks on the opponent. continue until one unit is a clear beginner.
+-
+- prev: [[Rolling Dice]]
+- next [[Movement]]

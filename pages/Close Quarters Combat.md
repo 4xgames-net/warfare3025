@@ -6,3 +6,5 @@ public:: true
 	- the targeted unit has the opportunity to directly react to this attack with their own piloting roll, given the normal conditions for interruptions are met.. if they match or exceed the attackers roll, the target may perform a move action.
 	- the target may also use the opportunity to counterattack. in order to do this, the attacked unit makes a piloting skill roll, taking the temporary damage from their own weapon systems minimum engagement range into account . meeting the attackers result tier avoids damage but fails the counterattack, exceeding the attackers result applies the damage of the (defender's) weapon in question .
 -
+- prev: [[shooting]]
+- next: [[Armor]]

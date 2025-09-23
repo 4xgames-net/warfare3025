@@ -40,3 +40,5 @@ public:: true
 - ### Aimed Shots
 	- TODO Increase the required result by one tier in order to aim for one arm& side Torso or the legs. increase the required result by two in order to aim for head/cockpit. Damage to these components will be more dificult to resist, but still unsure if there should be individual armor. See [[Centerpiece units]]
 -
+- prev: [[Stealth and Detection]]
+- next: [[Close Quarters Combat]]

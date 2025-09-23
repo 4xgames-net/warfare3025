@@ -18,3 +18,5 @@ public:: true
 	- I want all units to be AI controlled, depending on the role the player(s) have given them and the battlefield situation. This feature is highly optional, but in my mind it will be interesting to see how a battle unfolds if all players only interact with it indirectly by giving orders and letting an algorithm control their units.
 	- It might even be possible for players to not even control one side of a conflict, but following secret agendas (this unit must survive, this target must be destroyed etc...)
 	- Once the distinction and the mechanics for main, extra and common units are crisp enough, conversion rules will make it possible to convert one into the other, so you can play battles with more, but less detailed mechs, mech lances (handled the way infantry is currently) even.
+-
+- Next: [[Rolling Dice]]
