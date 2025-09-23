@@ -12,5 +12,3 @@ public:: true
 - ### Missiles
 	- TODO shooter rolls attack in order to achieve lock. If successful, Missiles ttack according to [[Close Quarters Combat]]
 	- TODO LRMs may be resolved as a low velocity attack
-	-
--
