@@ -13,4 +13,5 @@ public:: true
 - ### Weapons and Armor of widely different tiers
 	- If the difference between weapon and damage is two or more tiers, the target suffers instant destruction or is unharmed respectively.
 -
--
+- previous: [[Close Quarters Combat]]
+- next: [[Damage]]

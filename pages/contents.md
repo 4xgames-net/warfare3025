@@ -4,7 +4,6 @@ public:: true
 - [[Rolling Dice]]
 - [[Initiative]]
 - [[Movement]]
-- [[Terrain]]
 - [[Stealth and Detection]]
 - [[Shooting]]
 - [[Close Quarters Combat]]

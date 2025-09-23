@@ -41,8 +41,8 @@ public:: true
 - ---
 - ### Damage
   id:: 68d22ec9-35ad-4056-8224-5551b426832e
-	- Every major unit has a damagetrack of 20 "Hitpoints" - when damage is dealt it is deducted from the corresponding track.
-	- When a roll is affected by the damage, every roll that surpasses (20-Damage) is counted as a 1 and thereby as a result of #not
+	- Every major unit, or destructable component has a damagetrack of 20 "Hitpoints" - when damage is dealt, it is deducted from the corresponding track.
+	- When a roll is affected by the damage, every roll-result that surpasses (20-Damage) is counted as a 1 and thereby as a result of #not
 -
 - prev: [[Introduction]]
 - next: [[Initiative]]
