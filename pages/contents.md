@@ -1,5 +1,8 @@
-public:: true
-
+- [[Testgame Rules v.0.1]] (start here)
+  public:: true
+-
+- ***
+- Draft
 - [[Introduction]]
 - [[Rolling Dice]]
 - [[Initiative]]

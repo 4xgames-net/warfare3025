@@ -10,5 +10,5 @@ public:: true
 - ### Low Projectile velocity
 	- TODO attacks like artillery or LRM place a token on the hex they're aimed at and resolve their attack on their turn
 - ### Missiles
-	- TODO shooter rolls attack in order to achieve lock. If successful, Missiles ttack according to [[Close Quarters Combat]]
+	- TODO shooter rolls attack in order to achieve lock. If successful, Missiles attack according to [[Close Quarters Combat]]
 	- TODO LRMs may be resolved as a low velocity attack
