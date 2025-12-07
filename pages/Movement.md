@@ -12,6 +12,7 @@ public:: true
 	- units that move more than (X) Hexes count as #fast and gain a corresponding token.
 	- units may choose to spend more ticks for their movement (in order to fire using more aiming ticks, see [[Stabilisation]] )
 	- facing changes are free, a unit may chose any facing after it finishes its movement
+	  id:: 68b57825-2e43-4621-aa78-050913f7e1ea
 - ### Jumping
 	- Jump jets can be used to improve existing movement actions. They provide Thrust points.
 	- All jump movement is in a straigt line.

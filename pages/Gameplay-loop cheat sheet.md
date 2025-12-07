@@ -15,6 +15,7 @@ public:: true
 	- the movement action must always be paid in full, even when the unit moves significantly less than the max allowed (X+Y) Hexes
 	- units that move more than (X) Hexes count as fast and gain a corresponding token
 	- facing changes are free, a unit may chose a facing after it finishes its movement
+	  id:: 68b57825-4859-41db-a038-17a8d4cd3178
 - [[Terrain]]
 	- terrain never slows units down, but may demand a piloting action to avoid averse effects depending on movement mode
 	- ((6878983a-73b7-4d77-a8ec-05b9e993e38d))
