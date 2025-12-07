@@ -2,7 +2,7 @@ public:: true
 
 -
 - ### Overview
-  id:: 68b57825-94a3-45b6-8d9b-4bde4b9335d5
+  id:: 68b57825-c230-476c-9970-c984cafd26aa
   This system replaces traditional modifier-based dice rolls with a category-based outcome resolution on a d20. The result of a roll is not just a number, but a quality of success or failure mapped into one of five outcome categories.
   
   Instead of modifying rolls, unit skill affects how many die faces are allocated to each category — more skill compresses the failure range and expands the success ranges.

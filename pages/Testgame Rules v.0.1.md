@@ -1,3 +1,5 @@
+public:: true
+
 ## Game Components
 	- The game is usually played on **Hexmaps** known from other popular titles, however if you prefer, you can setup a hexless playing area with the terrain you like and use tape measure instead. Whenever a unit may move 1Hex, simply allow it to move 1" instead.
 	- You will of course need **Miniatures** to represent your units. 28mm Models, fully assembled and painted are best, but you may use other minatures or cardboard standees as proxies, as long as every participant can clearly determine which model represents which unit.
