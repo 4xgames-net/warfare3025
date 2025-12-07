@@ -1,6 +1,6 @@
 public:: true
 
-## Game Components
+- ## Game Components
 	- The game is usually played on **Hexmaps** known from other popular titles, however if you prefer, you can setup a hexless playing area with the terrain you like and use tape measure instead. Whenever a unit may move 1Hex, simply allow it to move 1" instead.
 	- You will of course need **Miniatures** to represent your units. 28mm Models, fully assembled and painted are best, but you may use other minatures or cardboard standees as proxies, as long as every participant can clearly determine which model represents which unit.
 	- The game uses **twenty sided dice (D20)** exclusively, it is recommended to have at least one, where a handful is clearly preferable.
@@ -55,7 +55,7 @@ public:: true
 	- ((692b143c-60a7-4878-b0a0-ea7b27729744))
 	- ((692b1723-c0da-4297-b9f2-968f3b3d4d12))
 	- When more than one piloting roll is required (e.g. landing a jump in a forrest without spending the required jump thrust), roll with disadvantage.
-	- Acquiring more than one disadvantage instantly fails the roll and make the Mech fall.
+	- Acquiring more than one disadvantage instantly fails the roll and make the Mech take 2 damage, resist as normal.
 	-
 - ## Attacking on the move
 	- the active unit may combine a movement action with an attack action.
@@ -131,7 +131,18 @@ public:: true
 - ## Falling and prone units
 	- not right now
 -
+- ## Setting up the game
+	- All units begin the game outside the map on opposing short sides And move onto the battlefield on their first activation. Make opposed piloting rolls to determine who starts.
+	- TODO *In later stages, every unit will have a starting amount of ticks on them depending on the scenario, the speed of the unit, the tactic and many factors more.*
+	-
+-
+- ## Cheat sheet
+	- {{renderer excalidraw, excalidraw-2025-12-07-16-11-19}}
+-
 - ## Units
 	- {{renderer excalidraw, excalidraw-2025-12-07-12-25-14}}
 	- {{renderer excalidraw, excalidraw-2025-12-07-12-39-24}}
+	- {{renderer excalidraw, excalidraw-2025-12-07-17-01-36}}
+	- {{renderer excalidraw, excalidraw-2025-12-08-00-19-56}}
 	-
+-
