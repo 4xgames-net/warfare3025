@@ -121,23 +121,20 @@ public:: true
 		  |Flamer|II|1|near|3|3|ignores fast & cover|
 		  |small Laser|II|1|short|10|3|
 		  |medium Laser|III|2|short|14|
-	-
-	-
+		-
 - ## Damage
 	- if the attack is successful and yields a result **equal to the defense** roll, mark one damage to armor
 	- if the attack is successful and **one result tier better than the defence**, apply damage to the structural integrity of the target unit. Target may resist as normal
-		-
 	- if the attack is successful and **two or more result tiers better than the defense**, the attacker may apply the damage directly to one of the target units components of the attackers choice, including srtuctural integrity but excluding the Pilot (for now). Note that no resistance roll is made in this case.
 - ## Falling and prone units
 	- not right now
--
 - ## Setting up the game
 	- All units begin the game outside the map on opposing short sides And move onto the battlefield on their first activation. Make opposed piloting rolls to determine who starts.
-	- TODO *In later stages, every unit will have a starting amount of ticks on them depending on the scenario, the speed of the unit, the tactic and many factors more.*
+	- TODO *In later stages, every unit will have a starting amount of ticks on them depending on the scenario, the speed of the unit, the tactic and other factors.*
 	-
--
 - ## Cheat sheet
 	- {{renderer excalidraw, excalidraw-2025-12-07-16-11-19}}
+	-
 -
 - ## Units
 	- {{renderer excalidraw, excalidraw-2025-12-07-12-25-14}}
