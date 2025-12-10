@@ -132,14 +132,18 @@ public:: true
 	- All units begin the game outside the map on opposing short sides And move onto the battlefield on their first activation. Make opposed piloting rolls to determine who starts.
 	- TODO *In later stages, every unit will have a starting amount of ticks on them depending on the scenario, the speed of the unit, the tactic and other factors.*
 	-
-- ## Cheat sheet
-	- {{renderer excalidraw, excalidraw-2025-12-07-16-11-19}}
-	-
 -
-- ## Units
-	- {{renderer excalidraw, excalidraw-2025-12-07-12-25-14}}
-	- {{renderer excalidraw, excalidraw-2025-12-07-12-39-24}}
-	- {{renderer excalidraw, excalidraw-2025-12-07-17-01-36}}
-	- {{renderer excalidraw, excalidraw-2025-12-08-00-19-56}}
+- ## Printables
+	- find a pdf to print and play here: https://github.com/4xgames-net/warfare3025/blob/main/docs/static/pdf/wf_poc_printables.pdf
 	-
+	- ### Cheat sheet
+		- {{renderer excalidraw, excalidraw-2025-12-07-16-11-19}}
+		-
+-
+	- ### Units
+		- {{renderer excalidraw, excalidraw-2025-12-07-12-25-14}}
+		- {{renderer excalidraw, excalidraw-2025-12-07-12-39-24}}
+		- {{renderer excalidraw, excalidraw-2025-12-07-17-01-36}}
+		- {{renderer excalidraw, excalidraw-2025-12-08-00-19-56}}
+		-
 -
