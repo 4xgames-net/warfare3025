@@ -125,7 +125,7 @@ public:: true
 - ## Damage
 	- if the attack is successful and yields a result **equal to the defense** roll, mark one damage to armor
 	- if the attack is successful and **one result tier better than the defence**, apply damage to the structural integrity of the target unit. Target may resist as normal
-	- if the attack is successful and **two or more result tiers better than the defense**, the attacker may apply the damage directly to one of the target units components of the attackers choice, including srtuctural integrity but excluding the Pilot (for now). Note that no resistance roll is made in this case.
+	- if the attack is successful and **two or more result tiers better than the defense**, the attacker may apply the damage directly to one of the target units components of the attackers choice, including srtuctural integrity but excluding the Pilot (for now). If the attacker chooses to damage structural integrity, a resistance roll is made as normal. Other all components just receive the damage without prior roll. 
 - ## Falling and prone units
 	- not right now
 - ## Setting up the game
